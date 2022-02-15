@@ -2,7 +2,7 @@
 
 I am currently a Research Scientist at Machine Programming Lab in [Intel Labs](https://www.intel.com/content/www/us/en/research/overview.html). My research interests are at the intersection of application of artificial intelligence, machine learning, and formal method techniques to problems in software systems and software engineering, such as bug finding, performance estimation. Recently, I published an automated system, named [ControlFlag](https://www.intel.com/content/www/us/en/newsroom/news/machine-programming-tool-detects-bugs-code.html), that learns to detect programming errors in code. ControlFlag is [open-source now](https://github.com/IntelLabs/control-flag), and has been covered by several news outlets such as [Venturebeat](https://venturebeat.com/2020/12/03/intels-controlflag-taps-ai-to-automatically-detect-errors-in-code/) and [TechRepublic](https://www.techrepublic.com/article/intel-unveils-machine-programming-tool-to-detect-bugs-in-code/).
 
-Prior to joining Intel, I was a PhD student at [Secure Systems Lab](http://seclab.cs.sunysb.edu/seclab/) at [Stony Brook University](https://www.stonybrook.edu/), where I conducted research in program analysis, symbolic execution, machine learning techniques to learn code translators, and binary analysis.
+Prior to joining Intel, I was a PhD student at [Secure Systems Lab](http://seclab.cs.sunysb.edu/seclab/) at [Stony Brook University](https://www.stonybrook.edu/), and I was advised by Prof. R. Sekar. At Stony Brook, I conducted research in program analysis, symbolic execution, machine learning techniques to learn code translators, and binary analysis.
 
 ## Publications
 
@@ -12,13 +12,13 @@ Prior to joining Intel, I was a PhD student at [Secure Systems Lab](http://secla
   
 - Automatic Tuning of Tensorflow’s CPU Backend Using Gradient-Free Optimization Algorithms [[pdf]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-90539-2_17.pdf) <br />
   Derssie Mebratu, Niranjan Hasabnis, Pietro Mercati, Gaurit Sharma, Shamima Najnin <br /> 
-  _In the Machine Learning on HPC Systems (MLHPCS) workshop, held in conjunction with International Supercomputing Conference (ISC), 2021_ <br />
+  _In Machine Learning on HPC Systems, 2021 (MLHPCS-ISC)_ <br />
 
-- ControlFlag: A Self-supervised Idiosyncratic Pattern Detection System for Software Control Structures <br />
+- ControlFlag: A Self-supervised Idiosyncratic Pattern Detection System for Software Control Structures [[pdf]](https://mlforsystems.org/assets/papers/neurips2020/controlflag_hasabnis_2020.pdf) <br />
   Niranjan Hasabnis and Justin Gottschlich <br />
   _In Workshop on ML for Systems at NeurIPS, 2020_ <br />
 
-- Auto-tuning TensorFlow’s Threading Model for CPU Backend Workshop on Machine Learning in HPC Environments [[pdf]](https://www.computer.org/csdl/proceedings/mlhpc/2018/18jXU1FV7vW) <br />
+- Auto-tuning TensorFlow’s Threading Model for CPU Backend [[pdf]](https://www.computer.org/csdl/proceedings/mlhpc/2018/18jXU1FV7vW) <br />
   Niranjan Hasabnis <br />
   _In IEEE/ACM Machine Learning in HPC Environments (MLHPC), 2018_ <br />
 
