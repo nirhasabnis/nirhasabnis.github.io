@@ -2,3 +2,6 @@ theme: jekyll-theme-minimal
 title: 
 description: Research Scientist at Intel Labs
 logo: fig/photo.jpg
+google_scholar: ["true"]
+google_scholar_url: https://scholar.google.com/citations?user=p8vutGkAAAAJ&hl=en
+is_user_page: ["false"]
