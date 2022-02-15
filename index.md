@@ -57,5 +57,3 @@ Prior to joining Intel, I was a PhD student at [Secure Systems Lab](http://secla
 ## Service
 
 [USENIX ATC'22](https://www.usenix.org/conference/atc22/call-for-papers) (PC), [MSR'22](https://conf.researchr.org/home/msr-2022) (PC), [AIDB'21](https://sites.google.com/view/aidb2021/home/program-commitee) (PC), [MAPS'21](https://pldi21.sigplan.org/home/maps-2021) (PC)
-
-umentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
