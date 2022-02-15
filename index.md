@@ -1,4 +1,4 @@
-# Niranjan Hasabnis
+# About me
 
 I am currently a Research Scientist at Machine Programming Lab in Intel Labs. My research interests are at the intersection of application of artificial intelligence, machine learning, and formal method techniques to problems in software systems and software engineering, such as bug finding, performance estimation. Recently, I published an automated system, named ControlFlag, that learns to detect programming errors in code. ControlFlag is [open-source now](https://github.com/IntelLabs/control-flag), and has been covered by several news outlets such as [Venturebeat](https://venturebeat.com/2020/12/03/intels-controlflag-taps-ai-to-automatically-detect-errors-in-code/) and [TechRepublic](https://www.techrepublic.com/article/intel-unveils-machine-programming-tool-to-detect-bugs-in-code/).
 
