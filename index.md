@@ -8,11 +8,11 @@ Prior to joining Intel, I was a PhD student at [Secure Systems Lab](http://secla
 
 - ControlFlag: A Self-supervised Idiosyncratic Pattern Detection System for Software Control Structures [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3460945.3464954) <br />
   Niranjan Hasabnis and Justin Gottschlich <br />
-  _In the 5th Annual Symposium on Machine Programming, 2021 (MAPS)_ <br />
+  _In the 5th Annual Symposium on Machine Programming **(MAPS)**, 2021_ <br />
   
 - Automatic Tuning of Tensorflow’s CPU Backend Using Gradient-Free Optimization Algorithms [[pdf]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-90539-2_17.pdf) <br />
   Derssie Mebratu, Niranjan Hasabnis, Pietro Mercati, Gaurit Sharma, Shamima Najnin <br /> 
-  _In Machine Learning on HPC Systems, 2021 (MLHPCS-ISC)_ <br />
+  _In Machine Learning on HPC Systems **(MLHPCS-ISC)**, 2021_ <br />
 
 - ControlFlag: A Self-supervised Idiosyncratic Pattern Detection System for Software Control Structures [[pdf]](https://mlforsystems.org/assets/papers/neurips2020/controlflag_hasabnis_2020.pdf) <br />
   Niranjan Hasabnis and Justin Gottschlich <br />
@@ -20,7 +20,7 @@ Prior to joining Intel, I was a PhD student at [Secure Systems Lab](http://secla
 
 - Auto-tuning TensorFlow’s Threading Model for CPU Backend [[pdf]](https://www.computer.org/csdl/proceedings/mlhpc/2018/18jXU1FV7vW) <br />
   Niranjan Hasabnis <br />
-  _In IEEE/ACM Machine Learning in HPC Environments (MLHPC), 2018_ <br />
+  _In IEEE/ACM Machine Learning in HPC Environments **(MLHPC)**, 2018_ <br />
 
 - Accelerating TensorFlow on Modern Intel Architectures <br />
   Niranjan Hasabnis, et al. <br />
@@ -28,11 +28,11 @@ Prior to joining Intel, I was a PhD student at [Secure Systems Lab](http://secla
 
 - Synthesizing Instruction-set semantics using Symbolic Execution of Code Generators [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2950290.2950335) <br />
   Niranjan Hasabnis and R. Sekar. <br />
-  _In ACM SIGSOFT International Symposium on Foundations of Software Engineering, 2016 (FSE)_ <br />
+  _In ACM SIGSOFT International Symposium on Foundations of Software Engineering **(FSE)**, 2016_ <br />
 
 - Lifting Assembly to Intermediate Representation: A Novel Approach Leveraging Compiler [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2872362.2872380) <br />
   Niranjan Hasabnis and R. Sekar. <br />
-  _In ACM Architectural Support for Programming Languages and Operating Systems, 2016 (ASPLOS)_ <br />
+  _In ACM Architectural Support for Programming Languages and Operating Systems **(ASPLOS)**, 2016_ <br />
   
 - **[PhD Thesis]** Automatic Synthesis of Instruction Set Semantics and its Applications [[pdf]](http://seclab.cs.stonybrook.edu/seclab/pubs/niranjanth.pdf) <br />
   Niranjan Hasabnis <br />
@@ -40,19 +40,19 @@ Prior to joining Intel, I was a PhD student at [Secure Systems Lab](http://secla
 
 - Checking Correctness of Compiler Code Generators [[pdf]](https://ieeexplore.ieee.org/iel7/7041249/7054173/07054197.pdf) <br />
   Niranjan Hasabnis, Rui Qiao, and R. Sekar. <br />
-  _In International Symposium on Code Generation and Optimization, 2015 (CGO)_
+  _In International Symposium on Code Generation and Optimization **(CGO)**, 2015_
 
 - Automatic Generation of Assembly to IR Translators Using Compilers [[pdf]](https://pdfs.semanticscholar.org/b3b1/3502f97f4266bcde7f1070c1b918791aee5c.pdf) <br /> 
   Niranjan Hasabnis and R. Sekar. <br />
-  _In Workshop on Architectural and Microarchitectural Support for Binary Translation, 2015 (AMAS-BT)_
+  _In Workshop on Architectural and Microarchitectural Support for Binary Translation **(AMAS-BT)**, 2015_
 
 - A Platform for Secure Static Binary Instrumentation [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2576195.2576208) <br />
   Mingwei Zheng, Rui Qiao, Niranjan Hasabnis, and R. Sekar. <br />
-  _In International Conference on Virtual Execution Environments, 2014 (VEE)_
+  _In International Conference on Virtual Execution Environments **(VEE)**, 2014_
 
 - Light-weight Bounds Checking [[pdf]](https://dl.acm.org/doi/pdf/10.1145/2259016.2259034) <br />
   Niranjan Hasabnis, Ashish Misra, and R. Sekar. <br />
-  _In International Symposium on Code Generation and Optimization, 2012 (CGO)_
+  _In International Symposium on Code Generation and Optimization **(CGO)**, 2012_
 
 ## Service
 
