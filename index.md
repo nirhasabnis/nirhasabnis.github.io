@@ -14,10 +14,14 @@ Prior to joining Intel, I was a PhD student at [Secure Systems Lab](http://secla
   Derssie Mebratu, Niranjan Hasabnis, Pietro Mercati, Gaurit Sharma, Shamima Najnin <br /> 
   _In Machine Learning on HPC Systems **(MLHPCS-ISC)**, 2021_ <br />
 
+- Distributed MLPerf ResNet50 Training on Intel Xeon Architectures with TensorFlow [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3440722.3440880) <br />
+  Wei Wang and Niranjan Hasabnis <br />
+  _In the International Conference on High Performance Computing in Asia-Pacific Region, 2021_ <br />
+
 - ControlFlag: A Self-supervised Idiosyncratic Pattern Detection System for Software Control Structures [[pdf]](https://mlforsystems.org/assets/papers/neurips2020/controlflag_hasabnis_2020.pdf) <br />
   Niranjan Hasabnis and Justin Gottschlich <br />
   _In Workshop on ML for Systems at NeurIPS, 2020_ <br />
-
+  
 - Auto-tuning TensorFlow’s Threading Model for CPU Backend [[pdf]](https://www.computer.org/csdl/proceedings/mlhpc/2018/18jXU1FV7vW) <br />
   Niranjan Hasabnis <br />
   _In IEEE/ACM Machine Learning in HPC Environments **(MLHPC)**, 2018_ <br />
