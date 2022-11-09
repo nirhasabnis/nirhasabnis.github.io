@@ -6,11 +6,11 @@ Prior to joining Intel, I was a PhD student at [Secure Systems Lab](http://secla
 
 ## Publications
 
-- Are Machine Programming Systems using Right Source Code Measures to select Code Repositories [[pdf]](https://arxiv.org/abs/2209.11946) <br/>
+- Are Machine Programming Systems using Right Source Code Measures to select Code Repositories [[pdf]](https://arxiv.org/abs/2209.11946), [[video]](https://youtu.be/wAcXvUjQQYQ) <br/>
   Niranjan Hasabnis <br/>
   _To appear at MaLTeSQuE 2022 workshop to be held with ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC-FSE), November 2022_ <br/>
 
-- GitRank: A Framework to Rank GitHub Repositories [[pdf]](https://ieeexplore.ieee.org/document/9796321), [[git]](https://github.com/nirhasabnis/gitrank) <br />
+- GitRank: A Framework to Rank GitHub Repositories [[pdf]](https://ieeexplore.ieee.org/document/9796321), [[video]](https://youtu.be/FObVm-T6_Og), [[git]](https://github.com/nirhasabnis/gitrank) <br />
   Niranjan Hasabnis <br />
   _In Mining Software Repositories **(MSR)**, 2022_ <br />
 
