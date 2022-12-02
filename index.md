@@ -8,7 +8,7 @@ Prior to joining Intel, I was a PhD student at [Secure Systems Lab](http://secla
 
 - Are Machine Programming Systems using Right Source Code Measures to select Code Repositories [[pdf]](https://arxiv.org/abs/2209.11946), [[video]](https://youtu.be/wAcXvUjQQYQ) <br/>
   Niranjan Hasabnis <br/>
-  _To appear at MaLTeSQuE 2022 workshop to be held with ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC-FSE), November 2022_ <br/>
+  _To appear at MaLTeSQuE 2022 workshop to be held with ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering **(ESEC-FSE)**, November 2022_ <br/>
 
 - GitRank: A Framework to Rank GitHub Repositories [[pdf]](https://ieeexplore.ieee.org/document/9796321), [[video]](https://youtu.be/FObVm-T6_Og), [[git]](https://github.com/nirhasabnis/gitrank) <br />
   Niranjan Hasabnis <br />
@@ -68,7 +68,7 @@ Prior to joining Intel, I was a PhD student at [Secure Systems Lab](http://secla
 
 ## Service
 
-- [USENIX ATC'23](https://www.usenix.org/conference/atc23) (PC), [MSR'23](https://conf.researchr.org/track/msr-2023/msr-2023-industry-track#Call-for-Papers) (industry PC)
+- [FSE'23](industry PC), [USENIX ATC'23](https://www.usenix.org/conference/atc23) (PC), [MSR'23](https://conf.researchr.org/track/msr-2023/msr-2023-industry-track#Call-for-Papers) (industry PC)
 - [AIDB'22](https://sites.google.com/view/aidb2022/home/program-committee) (PC), [FSE'22](https://2022.esec-fse.org/committee/fse-2022-industry-program-committee) (PC), [USENIX ATC'22](https://www.usenix.org/conference/atc22/call-for-papers) (PC), [MSR'22](https://conf.researchr.org/home/msr-2022) (PC), [ASE'22](https://conf.researchr.org/committee/ase-2022/ase-2022-industry-showcase-program-committee) (industry PC)
 - [AIDB'21](https://sites.google.com/view/aidb2021/home/program-commitee) (PC), [MAPS'21](https://pldi21.sigplan.org/home/maps-2021) (PC)
 
