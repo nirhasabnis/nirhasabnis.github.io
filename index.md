@@ -72,8 +72,8 @@ Mohammad Hossain, Derssie Mebratu, Niranjan Hasabnis, Jun Jin, Gaurav Chaudhary,
 
 ## Service
 
-- [FSE'23](industry PC), [USENIX ATC'23](https://www.usenix.org/conference/atc23) (PC), [MSR'23](https://conf.researchr.org/track/msr-2023/msr-2023-industry-track#Call-for-Papers) (industry PC)
-- [AIDB'22](https://sites.google.com/view/aidb2022/home/program-committee) (PC), [FSE'22](https://2022.esec-fse.org/committee/fse-2022-industry-program-committee) (PC), [USENIX ATC'22](https://www.usenix.org/conference/atc22/call-for-papers) (PC), [MSR'22](https://conf.researchr.org/home/msr-2022) (PC), [ASE'22](https://conf.researchr.org/committee/ase-2022/ase-2022-industry-showcase-program-committee) (industry PC)
-- [AIDB'21](https://sites.google.com/view/aidb2021/home/program-commitee) (PC), [MAPS'21](https://pldi21.sigplan.org/home/maps-2021) (PC)
+- [FSE'23](https://2023.esec-fse.org/committee/fse-2023-industry-program-committee), [USENIX ATC'23](https://www.usenix.org/conference/atc23), [MSR'23](https://conf.researchr.org/track/msr-2023/msr-2023-industry-track#Call-for-Papers), [ISCE'23](https://conf.researchr.org/committee/icse-2024/icse-2024-software-engineering-in-practice-software-engineering-in-practice)
+- [AIDB'22](https://sites.google.com/view/aidb2022/home/program-committee), [FSE'22](https://2022.esec-fse.org/committee/fse-2022-industry-program-committee), [USENIX ATC'22](https://www.usenix.org/conference/atc22/call-for-papers), [MSR'22](https://conf.researchr.org/home/msr-2022), [ASE'22](https://conf.researchr.org/committee/ase-2022/ase-2022-industry-showcase-program-committee)
+- [AIDB'21](https://sites.google.com/view/aidb2021/home/program-commitee), [MAPS'21](https://pldi21.sigplan.org/home/maps-2021)
 
 
