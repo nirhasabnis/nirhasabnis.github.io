@@ -6,6 +6,12 @@ Prior to joining Intel, I was a PhD student at [Secure Systems Lab](http://secla
 
 ## Publications
 
+- Advising OpenMP Parallelization via a Graph-Based Approach with Transformers [[pdf]](https://arxiv.org/pdf/2305.11999.pdf) <br/>
+Tal Kadosh, Nadav Schneider, Niranjan Hasabnis, Timothy Mattson, Yuval Pinter, Gal Oren <br/>
+
+- MPI-rical: Data-Driven MPI Distributed Parallelism Assistance with Transformers [[pdf]]() <br/>
+Nadav Schneider, Tal Kadosh, Niranjan Hasabnis, Timothy Mattson, Yuval Pinter, Gal Oren <br/>
+
 - CWD: A Machine Learning based Approach to Detect Unknown Cloud Workloads [[pdf]](https://arxiv.org/abs/2211.15739) <br/>
 Mohammad Hossain, Derssie Mebratu, Niranjan Hasabnis, Jun Jin, Gaurav Chaudhary, Noah Shen <br/>
  _In The MLSys Workshop on Cloud Intelligence (**AIOps**), 2022_ <br/>
@@ -72,7 +78,8 @@ Mohammad Hossain, Derssie Mebratu, Niranjan Hasabnis, Jun Jin, Gaurav Chaudhary,
 
 ## Service
 
-- [FSE'23](https://2023.esec-fse.org/committee/fse-2023-industry-program-committee), [USENIX ATC'23](https://www.usenix.org/conference/atc23), [MSR'23](https://conf.researchr.org/track/msr-2023/msr-2023-industry-track#Call-for-Papers), [ISCE'23](https://conf.researchr.org/committee/icse-2024/icse-2024-software-engineering-in-practice-software-engineering-in-practice)
+- [ICSE'24](https://conf.researchr.org/committee/icse-2024/icse-2024-software-engineering-in-practice-software-engineering-in-practice)
+- [FSE'23](https://2023.esec-fse.org/committee/fse-2023-industry-program-committee), [USENIX ATC'23](https://www.usenix.org/conference/atc23), [MSR'23](https://conf.researchr.org/track/msr-2023/msr-2023-industry-track#Call-for-Papers), [AIDB'23](https://sites.google.com/view/aidb2023), [ASE'23](https://conf.researchr.org/track/ase-2023/ase-2023-industry-showcase-papers)
 - [AIDB'22](https://sites.google.com/view/aidb2022/home/program-committee), [FSE'22](https://2022.esec-fse.org/committee/fse-2022-industry-program-committee), [USENIX ATC'22](https://www.usenix.org/conference/atc22/call-for-papers), [MSR'22](https://conf.researchr.org/home/msr-2022), [ASE'22](https://conf.researchr.org/committee/ase-2022/ase-2022-industry-showcase-program-committee)
 - [AIDB'21](https://sites.google.com/view/aidb2021/home/program-commitee), [MAPS'21](https://pldi21.sigplan.org/home/maps-2021)
 
