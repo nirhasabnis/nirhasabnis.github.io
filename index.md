@@ -9,7 +9,7 @@ Prior to joining Intel, I was a PhD student at [Secure Systems Lab](http://secla
 - Advising OpenMP Parallelization via a Graph-Based Approach with Transformers [[pdf]](https://arxiv.org/pdf/2305.11999.pdf) <br/>
 Tal Kadosh, Nadav Schneider, Niranjan Hasabnis, Timothy Mattson, Yuval Pinter, Gal Oren <br/>
 
-- MPI-rical: Data-Driven MPI Distributed Parallelism Assistance with Transformers [[pdf]]() <br/>
+- MPI-rical: Data-Driven MPI Distributed Parallelism Assistance with Transformers [[pdf]](https://arxiv.org/pdf/2305.09438.pdf) <br/>
 Nadav Schneider, Tal Kadosh, Niranjan Hasabnis, Timothy Mattson, Yuval Pinter, Gal Oren <br/>
 
 - CWD: A Machine Learning based Approach to Detect Unknown Cloud Workloads [[pdf]](https://arxiv.org/abs/2211.15739) <br/>
