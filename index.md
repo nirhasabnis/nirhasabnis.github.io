@@ -8,7 +8,7 @@ Prior to joining Intel, I was a PhD student at [Secure Systems Lab](http://secla
 
 - Quantifying OpenMP: Statistical Insights into Usage and Adoption [[pdf]](https://arxiv.org/pdf/2308.08002.pdf)<br/>
   Tal Kadosh, Niranjan Hasabnis, Timothy Mattson, Yuval Pinter, Gal Oren <br/>
-  _To appear in 27th IEEE High Performance Extreme Computing ([**HPEC**](https://ieee-hpec.org/)), 2023_ <br/>
+  _In 27th IEEE High Performance Extreme Computing ([**HPEC**](https://ieee-hpec.org/)), 2023_ <br/>
 
 - Advising OpenMP Parallelization via a Graph-Based Approach with Transformers [[pdf]](https://arxiv.org/pdf/2305.11999.pdf) <br/>
 Tal Kadosh, Nadav Schneider, Niranjan Hasabnis, Timothy Mattson, Yuval Pinter, Gal Oren <br/>
@@ -16,7 +16,7 @@ Tal Kadosh, Nadav Schneider, Niranjan Hasabnis, Timothy Mattson, Yuval Pinter, G
 
 - MPI-rical: Data-Driven MPI Distributed Parallelism Assistance with Transformers [[pdf]](https://arxiv.org/pdf/2305.09438.pdf) <br/>
 Nadav Schneider, Tal Kadosh, Niranjan Hasabnis, Timothy Mattson, Yuval Pinter, Gal Oren <br/>
- _To appear in AI4Dev workshop ([**AI4Dev**](https://ai4dev-workshop.github.io/2023/)) at SuperComputing, 2023_ <br/>
+ _In AI4Dev workshop ([**AI4Dev**](https://ai4dev-workshop.github.io/2023/)) at SuperComputing, 2023_ <br/>
 
 - CWD: A Machine Learning based Approach to Detect Unknown Cloud Workloads [[pdf]](https://arxiv.org/abs/2211.15739) <br/>
 Mohammad Hossain, Derssie Mebratu, Niranjan Hasabnis, Jun Jin, Gaurav Chaudhary, Noah Shen <br/>
