@@ -11,7 +11,7 @@ Prior to joining Intel, I was a PhD student at [Secure Systems Lab](http://secla
 
 - Verified Code Transpilation with LLMs [[pdf]](https://arxiv.org/abs/2406.03003)<br/>
   Sahil Bhatia, Jie Qiu, Niranjan Hasabnis, Sanjit A. Seshia, Alvin Cheung <br/>
-  _To appear in [**NeurIPS**](https://nips.cc/virtual/2024/poster/93370) 2024_ <br/>
+  _In [**NeurIPS**](https://nips.cc/virtual/2024/poster/93370) 2024_ <br/>
 
 - Tenspiler: A Verified Lifting-Based Compiler for Tensor Operations [[pdf]](https://arxiv.org/abs/2404.18249) <br/>
   Jie Qiu, Colin Cai, Sahil Bhatia, Niranjan Hasabnis, Sanjit A Seshia, Alvin Cheung <br/>
