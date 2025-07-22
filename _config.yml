@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: pages-themes/minimal@v0.2.0
 title: Niranjan Hasabnis
 description: niranjan[at]codemetal[dot]ai
 logo: fig/photo.jpg
