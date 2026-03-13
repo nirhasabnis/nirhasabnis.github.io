@@ -9,6 +9,14 @@ Prior to joining Intel, I was a PhD student at [Secure Systems Lab](http://secla
 ## (Some of the) Publications
 (_Complete list is in [Google Scholar](https://scholar.google.com/citations?hl=en&user=p8vutGkAAAAJ&view_op=list_works&sortby=pubdate)_)
 
+- Pcebench: A multi-dimensional benchmark for evaluating large language models in parallel code generation [[pdf]](https://par.nsf.gov/servlets/purl/10630321)<br/>
+Le Chen, Nesreen Ahmed, Mihai Capotă, Ted Willke, Niranjan Hasabnis, Ali Jannesari <br/>
+_In IEEE International Parallel and Distributed Processing Symposium (**IPDPS**), 2025_ <br/>
+  
+- Unipar: A unified llm-based framework for parallel and accelerated code translation in hpc [[pdf]](https://arxiv.org/pdf/2509.12136)<br/>
+Tomer Bitan, Tal Kadosh, Erel Kaplan, Shira Meiri, Le Chen, Peter Morales, Niranjan Hasabnis, Gal Oren <br/>
+_In 9th Annual IEEE High Performance Extreme Computing Conference ([**HPEC**](https://ieee-hpec.org/ieee-hpec-2025-prelim-agenda/)), 2025_ <br/>
+
 - Verified Code Transpilation with LLMs [[pdf]](https://arxiv.org/abs/2406.03003)<br/>
   Sahil Bhatia, Jie Qiu, Niranjan Hasabnis, Sanjit A. Seshia, Alvin Cheung <br/>
   _In [**NeurIPS**](https://nips.cc/virtual/2024/poster/93370) 2024_ <br/>
@@ -68,7 +76,8 @@ Nadav Schneider, Tal Kadosh, Niranjan Hasabnis, Timothy Mattson, Yuval Pinter, G
 
 ## Service
 
-- [USENIX ATC'25](https://www.usenix.org/conference/atc25/call-for-papers)
+- [TACO'26](https://dl.acm.org/journal/taco)
+- [USENIX ATC'25](https://www.usenix.org/conference/atc25/call-for-papers), [POPL'25](https://conf.researchr.org/home/POPL-2025)
 - [ICSE'24](https://conf.researchr.org/committee/icse-2024/icse-2024-software-engineering-in-practice-software-engineering-in-practice), [FSE'24](https://2024.esec-fse.org/)
 - [MLforSys - NeurIPS'23](http://mlforsystems.org/), [FSE'23](https://2023.esec-fse.org/committee/fse-2023-industry-program-committee), [USENIX ATC'23](https://www.usenix.org/conference/atc23), [MSR'23](https://conf.researchr.org/track/msr-2023/msr-2023-industry-track#Call-for-Papers), [AIDB'23](https://sites.google.com/view/aidb2023), [ASE'23](https://conf.researchr.org/track/ase-2023/ase-2023-industry-showcase-papers)
 - [AIDB'22](https://sites.google.com/view/aidb2022/home/program-committee), [FSE'22](https://2022.esec-fse.org/committee/fse-2022-industry-program-committee), [USENIX ATC'22](https://www.usenix.org/conference/atc22/call-for-papers), [MSR'22](https://conf.researchr.org/home/msr-2022), [ASE'22](https://conf.researchr.org/committee/ase-2022/ase-2022-industry-showcase-program-committee)
@@ -77,7 +86,7 @@ Nadav Schneider, Tal Kadosh, Niranjan Hasabnis, Timothy Mattson, Yuval Pinter, G
 ## Awards
 
 - **Outstanding paper** award for Monocoder paper at HPEC 2024
-- High 5 Award for filing atleast 5 invention disclosures, Intel, 2022
-- Silver medal in ACM Student Research Competition, Code Generation and Optimization (CGO), 2015.
-- Computer Science Fellowship, Stony Brook University, 2010.
-- Graduate Tuition Scholarship, Stony Brook University, 2010–2015.
+- **High 5 Award** for filing atleast 5 invention disclosures, Intel, 2022
+- **Silver medal** in ACM Student Research Competition, Code Generation and Optimization (CGO), 2015.
+- Computer Science **Fellowship**, Stony Brook University, 2010.
+- Graduate Tuition **Scholarship**, Stony Brook University, 2010–2015.
