@@ -9,7 +9,7 @@ Prior to joining Intel, I was a PhD student at [Secure Systems Lab](http://secla
 ## (Some of the) Publications
 (_Complete list is in [Google Scholar](https://scholar.google.com/citations?hl=en&user=p8vutGkAAAAJ&view_op=list_works&sortby=pubdate)_)
 
-- ParaCodex: A Profiling-Guided Autonomous Coding Agent for Reliable Parallel Code Generation and Translation [[pdf]]([https://par.nsf.gov/servlets/purl/10630321](https://arxiv.org/pdf/2601.04327))<br/>
+- ParaCodex: A Profiling-Guided Autonomous Coding Agent for Reliable Parallel Code Generation and Translation [[pdf]](https://arxiv.org/pdf/2601.04327)<br/>
 Erel Kaplan, Tomer Bitan, Lian Ghrayeb, Le Chen, Tom Yotam, Niranjan Hasabnis, Gal Oren <br/>
 _In Association of Computational Linguistics (**ACL**), 2026_ <br/>
 
