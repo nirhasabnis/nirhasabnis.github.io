@@ -9,6 +9,10 @@ Prior to joining Intel, I was a PhD student at [Secure Systems Lab](http://secla
 ## (Some of the) Publications
 (_Complete list is in [Google Scholar](https://scholar.google.com/citations?hl=en&user=p8vutGkAAAAJ&view_op=list_works&sortby=pubdate)_)
 
+- Latent Reasoning Guidance for Parallel Code Translation [[pdf]](https://arxiv.org/abs/2606.05518)<br/>
+Tomer Bitan, Erel Kaplan, Roee Bar-Yadin, Lian Ghrayeb, Le Chen, Samyak Jhaveri, Niranjan Hasabnis, Gal Oren <br/>
+_To appear in The Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2026_ <br/>
+
 - ParaCodex: A Profiling-Guided Autonomous Coding Agent for Reliable Parallel Code Generation and Translation [[pdf]](https://arxiv.org/pdf/2601.04327)<br/>
 Erel Kaplan, Tomer Bitan, Lian Ghrayeb, Le Chen, Tom Yotam, Niranjan Hasabnis, Gal Oren <br/>
 _In Association of Computational Linguistics (**ACL**), 2026_ <br/>
@@ -80,7 +84,7 @@ Nadav Schneider, Tal Kadosh, Niranjan Hasabnis, Timothy Mattson, Yuval Pinter, G
 
 ## Service
 
-- [TACO'26](https://dl.acm.org/journal/taco)
+- [ACM Transaction on Computer Architecture - TACO'26](https://dl.acm.org/journal/taco), [IEEE Transaction on Software Engineering - TSE'26](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32)
 - [USENIX ATC'25](https://www.usenix.org/conference/atc25/call-for-papers), [POPL'25](https://conf.researchr.org/home/POPL-2025)
 - [ICSE'24](https://conf.researchr.org/committee/icse-2024/icse-2024-software-engineering-in-practice-software-engineering-in-practice), [FSE'24](https://2024.esec-fse.org/)
 - [MLforSys - NeurIPS'23](http://mlforsystems.org/), [FSE'23](https://2023.esec-fse.org/committee/fse-2023-industry-program-committee), [USENIX ATC'23](https://www.usenix.org/conference/atc23), [MSR'23](https://conf.researchr.org/track/msr-2023/msr-2023-industry-track#Call-for-Papers), [AIDB'23](https://sites.google.com/view/aidb2023), [ASE'23](https://conf.researchr.org/track/ase-2023/ase-2023-industry-showcase-papers)
